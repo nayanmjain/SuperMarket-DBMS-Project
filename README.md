@@ -30,6 +30,9 @@ A program for Supermarkets to maintain their billing and to find the max and min
       2. Setup a new user in Workbench with username "root" and password "root".
       3. Create a new Database supermarket.
       4. Create a new Table __cust_details__ with the attributes : __ cust_first_name, cust_mobile, cust_total_amt, cust_total_items __.
-      5. In NetBeans check for the JDBC connection 
+      5. Open the complete project in NetBeans.
+      6. In NetBeans check for the JDBC connection in services tab and connect it to the localhost supermarket.
+      7. Build and run the program.
       
+       
           
